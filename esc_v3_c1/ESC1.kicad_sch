@@ -2176,7 +2176,7 @@
     (uuid d60029d3-771b-4d28-80d6-7eaf19bfd272)
     (property "Reference" "J1" (id 0) (at 220.345 121.573 0))
     (property "Value" "Power" (id 1) (at 224.79 121.92 0))
-    (property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical" (id 2) (at 219.71 128.27 0)
+    (property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (id 2) (at 219.71 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 219.71 128.27 0)
@@ -2440,7 +2440,7 @@
       (reference "D12") (unit 1) (value "1N5819") (footprint "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp")
     )
     (path "/d60029d3-771b-4d28-80d6-7eaf19bfd272"
-      (reference "J1") (unit 1) (value "Power") (footprint "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical")
+      (reference "J1") (unit 1) (value "Power") (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical")
     )
     (path "/7d162526-a1b6-42b8-a404-3d5f0c26ea90"
       (reference "J2") (unit 1) (value "Inputs") (footprint "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical")
